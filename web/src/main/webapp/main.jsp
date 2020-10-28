@@ -8,5 +8,6 @@
 </head>
 <body>
 	로컬에서 수정
+    main 페이지 입니다.
 </body>
 </html>
