@@ -9,5 +9,6 @@
 <body>
 	로컬에서 수정
     main 페이지 입니다.
+	cmd에서 수정
 </body>
 </html>
